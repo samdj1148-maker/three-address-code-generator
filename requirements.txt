@@ -1,0 +1,8 @@
+# Three Address Code Generator - Requirements
+# No external dependencies required - uses only Python standard library
+# Python 3.6 or higher recommended
+
+# For development and testing (optional):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
